@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In gravimetric analysis, which of the following is NOT a fundamental step?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Precipitation",
+        "b": "Chromatographic separation",
+        "c": "Filtration",
+        "d": "Ignition and weighing"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Precipitation is a core step in gravimetric analysis.",
+        "b": "Chromatographic separation is not part of gravimetric analysis; it's a separate technique.",
+        "c": "Filtration is essential to isolate the precipitate.",
+        "d": "Ignition and weighing are required to obtain accurate mass of the analyte."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following conditions favors the formation of a pure and filterable nickel-dimethylglyoxime precipitate?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Rapid addition of the reagent without stirring",
+        "b": "Cold solution at pH below 5",
+        "c": "Slow addition of reagent with heating and stirring",
+        "d": "Strong acidic medium with vigorous shaking"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Rapid addition can cause poor crystal formation and co-precipitation.",
+        "b": "Acidic conditions and low temperatures hinder proper complex formation.",
+        "c": "Slow addition with heating and stirring enhances purity and filterability of the precipitate.",
+        "d": "Acidic media and excessive agitation can result in poor precipitate quality."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     }
   ]
 }
