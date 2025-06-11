@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Which reagent is used to selectively precipitate nickel in gravimetric estimation?",
+      "answers": {
+        "a": "Oxalic acid",
+        "b": "Dimethyl glyoxime",
+        "c": "EDTA",
+        "d": "Ammonium oxalate"
+      },
+      "explanations": {
+        "a": "Oxalic acid is not selective for nickel precipitation.",
+        "b": "Dimethyl glyoxime forms a red precipitate specifically with nickel ions, making it selective.",
+        "c": "EDTA is a chelating agent, not used for precipitation in this method.",
+        "d": "Ammonium oxalate is not commonly used for nickel gravimetric analysis."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the role of ammonia in the gravimetric estimation of nickel?",
+      "answers": {
+        "a": "To dissolve the nickel complex",
+        "b": "To adjust the temperature",
+        "c": "To maintain the pH for chelation",
+        "d": "To oxidize nickel ions"
+      },
+      "explanations": {
+        "a": "Ammonia does not primarily function to dissolve the complex.",
+        "b": "Temperature adjustment is not the role of ammonia here.",
+        "c": "Ammonia maintains an alkaline pH, facilitating nickel chelation with dimethyl glyoxime.",
+        "d": "Ammonia does not act as an oxidizing agent in this context."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is it important to avoid adding a large excess of dimethyl glyoxime in this experiment?",
+      "answers": {
+        "a": "It forms complexes with water molecules",
+        "b": "It may lead to precipitation of DMG itself",
+        "c": "It causes the nickel complex to evaporate",
+        "d": "It reduces the solubility of the nickel complex"
+      },
+      "explanations": {
+        "a": "DMG does not typically form stable complexes with water molecules.",
+        "b": "Excess DMG can precipitate independently, interfering with accurate nickel estimation.",
+        "c": "Nickel-DMG complex is not volatile; it does not evaporate.",
+        "d": "Solubility of the complex is not significantly reduced by excess DMG."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}
