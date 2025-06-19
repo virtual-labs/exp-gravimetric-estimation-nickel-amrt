@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="EstimationOfNickel1InOrgNickelsolutions1">
+	<TEXT ID="EstimationOfNickel1InOrgNickelsolutions1_one">
+		<TEXTVALUE>Click on any of the given volumes of the nickel solution in a small reagent bottle to start the estimation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgStanderflask">
+	<TEXT ID="InOrgStanderflask_one">
+		<TEXTVALUE>Pour the selected volume of nickel in a 100ml standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgStanderflask_two">
+		<TEXTVALUE>Place a funnel in the mouth of the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgStanderflask_three">
+		<TEXTVALUE>Place a funnel on the mouth of the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgStanderflask_four">
+		<TEXTVALUE>Keep a glass rod on the funnel.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgStanderflask_five">
+		<TEXTVALUE>Now, pour the entire nickel solution to the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWater1">
+	<TEXT ID="InOrgWater1_one">
+		<TEXTVALUE>Pour some distilled water into the reagent bottle and shake it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPourwater">
+	<TEXT ID="InOrgPourwater_one">
+		<TEXTVALUE>Pour the solution into the standard flask using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWater2">
+	<TEXT ID="InOrgWater2_one">
+		<TEXTVALUE>Repeat the same procedure until the entire nickel solution is transferred to the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPourwater2">
+	<TEXT ID="InOrgPourwater2_one">
+		<TEXTVALUE>Repeat the same procedure until the entire nickel solution is transferred to the standard flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgPourwater2_two">
+		<TEXTVALUE>Remove the glass rod and funnel from the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgMadeup100ml">
+	<TEXT ID="InOrgMadeup100ml_one">
+		<TEXTVALUE>Make up the nickel solution to 100ml using water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgShakesolution">
+	<TEXT ID="InOrgShakesolution_one">
+		<TEXTVALUE>Close the standard flask using a stopper.</TEXTVALUE>
+	</TEXT>
+		<TEXT ID="InOrgShakesolution_two">
+		<TEXTVALUE>Shake the flask well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette1">
+	<TEXT ID="InOrgPipette1_one">
+		<TEXTVALUE>Take a clean beaker.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgPipette1_two">
+		<TEXTVALUE>Open the stopper of the flask.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgPipette1_three">
+		<TEXTVALUE>Take 20ml of Nickel solution from the flask using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette2">
+	<TEXT ID="InOrgPipette2_one">
+		<TEXTVALUE>Take 20ml of Nickel solution from the flask using a pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette3">
+	<TEXT ID="InOrgPipette3_one">
+		<TEXTVALUE>Pour the pipetted solution into the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgPipette4">
+	<TEXT ID="InOrgPipette4_one">
+		<TEXTVALUE>Pour the pipetted solution into the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclBeacker">
+	<TEXT ID="InOrgHclBeacker_one">
+		<TEXTVALUE>Take 5ml of 1:1 HCl into a measuring jar.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgHclBeacker_two">
+		<TEXTVALUE>Take 5ml of 1:1 HClinto a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclBeacker1">
+	<TEXT ID="InOrgHclBeacker1_one">
+		<TEXTVALUE>Take 5ml of 1:1 HCl into a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EstimationOfNickel1InOrgHclBeacker14">
+	<TEXT ID="EstimationOfNickel1InOrgHclBeacker14_one">
+		<TEXTVALUE>Add it into the beaker containing Nickel solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EstimationOfNickel2InOrgHclwaterr15">
+	<TEXT ID="EstimationOfNickel2InOrgHclwaterr15_one">
+		<TEXTVALUE>Pour some distilled water into the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclstir16">
+	<TEXT ID="InOrgHclstir16_one">
+		<TEXTVALUE>Stir the solution using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclheat17">
+	<TEXT ID="InOrgHclheat17_one">
+		<TEXTVALUE>Heat the solution using heating mantle at 70°C -80°C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgHclheat18">
+	<TEXT ID="InOrgHclheat18_one">
+		<TEXTVALUE>Heat the solution using a heating mantle set at 70°C -80°C.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgDimethyl19">
+	<TEXT ID="InOrgDimethyl19_one">
+		<TEXTVALUE>Take 20 ml of Dimethyl Glyoxime in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgDimethyl20">
+	<TEXT ID="InOrgDimethyl20_one">
+		<TEXTVALUE>Take 20 ml of Dimethyl Glyoxime in a measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgdmgheat21">
+	<TEXT ID="InOrgdmgheat21_one">
+		<TEXTVALUE>Remove the solution from the heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgamonia22">
+	<TEXT ID="InOrgamonia22_one">
+		<TEXTVALUE>Add it to the heated solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAmoniadrop23">
+	<TEXT ID="InOrgAmoniadrop23_one">
+		<TEXTVALUE>Take dil.Ammonia solution using a dropper.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgAmoniadrop23_two">
+		<TEXTVALUE>Add it into the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgAmoniadrop23_three">
+		<TEXTVALUE>Stir it well using glass rod.</TEXTVALUE>
+	</TEXT>
+	
+</SCENE>
+<SCENE ID="InOrgAmoniadrop24">
+	<TEXT ID="InOrgAmoniadrop24_one">
+		<TEXTVALUE>Repeat the step, till the solution smells like ammonia.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAmoniadroPagain25">
+	<TEXT ID="InOrgAmoniadroPagain25_one">
+		<TEXTVALUE>Repeat the step, till the solution smells like ammonia.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAmoniared26">
+	<TEXT ID="InOrgAmoniared26_one">
+		<TEXTVALUE>Repeat the step, till the solution smells like ammonia.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgAmoniared26_two">
+		<TEXTVALUE>A red precipitate is formed in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWtrBth27">
+	<TEXT ID="InOrgWtrBth27_one">
+		<TEXTVALUE>Heat the solution using a water bath for 30 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWatertray28">
+	<TEXT ID="InOrgWatertray28_one">
+		<TEXTVALUE>Allow it to cool using a cool water tray.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="InOrgAirOven29">
+	<TEXT ID="InOrgAirOven29_one">
+		<TEXTVALUE>Remove the beaker containing the sintered crucible from the air oven using tongs.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgAirOven29_two">
+		<TEXTVALUE>Remove the beaker containing the sintered crucible from the air oven using tongs.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAirOventiles">
+	<TEXT ID="InOrgAirOventiles_one">
+		<TEXTVALUE>Place the beaker on a tile for some time using tongs (cooling).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgDesicator30">
+	<TEXT ID="InOrgDesicator30_one">
+		<TEXTVALUE>Keep the beaker containing sintered crucible in a desiccator for 15 minutes.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgDesicator30_two">
+		<TEXTVALUE>Take the sintered crucible from the desiccator using tongs.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWeighing31">
+	<TEXT ID="InOrgWeighing31_one">
+		<TEXTVALUE>Measure the mass of the empty sintered crucible using a weighing balance as shown.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgVaccumFiltr32">
+	<TEXT ID="InOrgVaccumFiltr32_one">
+		<TEXTVALUE>Place the filtration flask into a stand and connect the side tube of the filter flask to the suction pump.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgVaccumFiltr32_two">
+		<TEXTVALUE>Place the filtration flask into a stand and connect the side tube of the filter flask to the suction pump.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EstimationOfNickel2InOrgVaccumFiltr33">
+	<TEXT ID="EstimationOfNickel2InOrgVaccumFiltr33_one">
+		<TEXTVALUE>Close the flask using a rubber cork.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="EstimationOfNickel2InOrgVaccumFiltr33_two">
+		<TEXTVALUE>Place the sintered crucible on top of it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="EstimationOfNickelInOrgWatertray28copy">
+	<TEXT ID="EstimationOfNickelInOrgWatertray28copy_one">
+		<TEXTVALUE>Take the beaker containing cooled red precipitate from the tray.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgVaccumFiltr33copy">
+	<TEXT ID="InOrgVaccumFiltr33copy_one">
+		<TEXTVALUE>Slowly pour the red solution into the sintered crucible using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgRedwash">
+	<TEXT ID="InOrgRedwash_one">
+		<TEXTVALUE>Pour some distilled water into the beaker to transfer quantitatively all the precipitate into the sintered crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgVaccumFiltr40">
+	<TEXT ID="InOrgVaccumFiltr40_one">
+		<TEXTVALUE>Pour the solution into the sintered crucible using glass rod.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgVaccumFiltr40_two">
+		<TEXTVALUE>We can observe that a red precipitate is left in the bottom of the sintered crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="InOrgSilvernitrate">
+	<TEXT ID="InOrgSilvernitrate_one">
+		<TEXTVALUE>Take few drops of [cml]AgNO3[/cml] solution into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="InOrgclorinetest">
+	<TEXT ID="InOrgclorinetest_one">
+		<TEXTVALUE>Remove the sintered crucible from the cork and collect some drops in a test tube as shown.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgclorinetest_two">
+		<TEXTVALUE>A white precipitate indicates the presence of chloride in the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="InOrgRed39">
+	<TEXT ID="InOrgRed39_one">
+		<TEXTVALUE>Wash the precipitate with distilled water and scrub the beaker well using a policeman to remove the particles adherring to the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE><SCENE ID="InOrgRed39copy">
+	<TEXT ID="InOrgRed39copy_one">
+		<TEXTVALUE>Transfer it into the sintered crucible.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgRed39copy_two">
+		<TEXTVALUE>Repeat the test for chlorine. No white ppt is formed. This indicates the absence of chloride ions.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgRed39copy_three">
+		<TEXTVALUE>Remove the sintered crucible from the rubber cork using tongs.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgagainheat34">
+	<TEXT ID="InOrgagainheat34_one">
+		<TEXTVALUE>Place the beaker containing sintered crucible into an air oven for heating and close the air oven.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgagainheat34_two">
+		<TEXTVALUE>Set the oven  at 110°C -120°C for 30 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAirOven35">
+	<TEXT ID="InOrgAirOven35_one">
+		<TEXTVALUE>Open the air oven and take the beaker containing sintered crucible from the air oven using tongs.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgAirOven36">
+	<TEXT ID="InOrgAirOven36_one">
+		<TEXTVALUE>Place it on a tile.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgDesicator37">
+	<TEXT ID="InOrgDesicator37_one">
+		<TEXTVALUE>Using tongs, place the sintered crucible into the desiccator for 15 minutes for further cooling.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="InOrgDesicator37_two">
+		<TEXTVALUE>Open the desiccator and take out the beaker containing sintered crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgWeighing38">
+	<TEXT ID="InOrgWeighing38_one">
+		<TEXTVALUE>Measure the weight of  the sintered crucible containing red precipitate using the weighing balance.   Repeat drying and reweigh until a constant weight is obtained.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="InOrgEquation">
+	<TEXT ID="InOrgEquation_one">
+		<TEXTVALUE>Equation</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
